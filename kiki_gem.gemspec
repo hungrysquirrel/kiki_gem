@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "kiki_gem.gemspec",
     "lib/kiki_gem.rb",
     "spec/kiki_gem_spec.rb",
     "spec/spec_helper.rb"
