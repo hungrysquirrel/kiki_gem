@@ -14,6 +14,7 @@ Gem::Specification.new do |s|
   s.email = "josh@estately.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
+    "README.md",
     "README.rdoc"
   ]
   s.files = [
@@ -23,10 +24,25 @@ Gem::Specification.new do |s|
     "Gemfile",
     "Gemfile.lock",
     "LICENSE.txt",
+    "README.md",
     "README.rdoc",
     "Rakefile",
     "VERSION",
     "kiki_gem.gemspec",
+    "kiki_gem/.document",
+    "kiki_gem/.gitignore",
+    "kiki_gem/.rspec",
+    "kiki_gem/.travis.yml",
+    "kiki_gem/Gemfile",
+    "kiki_gem/Gemfile.lock",
+    "kiki_gem/LICENSE.txt",
+    "kiki_gem/README.rdoc",
+    "kiki_gem/Rakefile",
+    "kiki_gem/VERSION",
+    "kiki_gem/kiki_gem.gemspec",
+    "kiki_gem/lib/kiki_gem.rb",
+    "kiki_gem/spec/kiki_gem_spec.rb",
+    "kiki_gem/spec/spec_helper.rb",
     "lib/kiki_gem.rb",
     "spec/kiki_gem_spec.rb",
     "spec/spec_helper.rb"
